@@ -23,3 +23,12 @@ Frontend Developer | I turn ideas into interactive experiences.🚀
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahrookhaynaz@gmail.com) Email
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aynaz-shahrokh-4a4251322) LinkedIn
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahroukh) GitHub
+
+
+## 📊 My GitHub Stats
+
+![Aynaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahroukh&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahroukh&layout=compact&theme=radical)
+
+![🏆 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahroukh&langs_count=6&layout=compact&theme=radical)
