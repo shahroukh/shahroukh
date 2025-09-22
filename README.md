@@ -29,6 +29,6 @@ Frontend Developer | I turn ideas into interactive experiences.🚀
 
 ![Aynaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahroukh&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahroukh&layout=compact&theme=radical)
+
 
 
