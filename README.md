@@ -31,4 +31,4 @@ Frontend Developer | I turn ideas into interactive experiences.🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahroukh&layout=compact&theme=radical)
 
-![🏆 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahroukh&langs_count=6&layout=compact&theme=radical)
+
