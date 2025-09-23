@@ -1,6 +1,5 @@
-# Hi there 👋 I'm Aynaz Shahrokh
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=My+Name+Is+Aynaz+Shahroukh;Front+End+Developer)](https://git.io/typing-svg)
 
-Frontend Developer | I turn ideas into interactive experiences.🚀
 
 ## 🛠 Skills & Technologies
 
